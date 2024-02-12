@@ -12,7 +12,7 @@ Supports different types of profiles, including managers, engineers and interns.
 
 # :first_quarter_moon: Video
 
-[WATCH THE VIDEO](https://drive.google.com/file/d/1eeSQEbcW7cTOD7SqIlJd_tF0tkoRjGiR/preview)
+[WATCH THE VIDEO](https://drive.google.com/file/d/1wfBVsdC-VPcWtCpHxKRT0d_RmWFzr5pD/view)
 
 [DOWLOAD THE VIDEO](./assets/videos/walkthrough-video.webm)
 
@@ -22,6 +22,7 @@ Supports different types of profiles, including managers, engineers and interns.
 
 - Have Node.js installed on your computer.
 - Have Git installed on your computer.
+- Have Validator installed on your computer.
 
 2. Clone the Repository:
 
@@ -54,7 +55,7 @@ Supports different types of profiles, including managers, engineers and interns.
 
 These are the files created using the application shown in the video above.
 
-[PAGE.HTML](./assets/samples/README.md)
+[TEAM.HTML](./assets/samples/team.html)
 
 # :copyright: Credits
 
