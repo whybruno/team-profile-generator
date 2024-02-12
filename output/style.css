@@ -1,0 +1,83 @@
+:root {
+  --color-01: #000000;
+  --color-02: #b43822;
+  --color-03: #9047FF;
+  --color-04: #ffffff;
+  --color-05: #78925a;
+}
+
+* {
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-04);
+}
+
+body {
+  background-color: var(--color-01);
+}
+
+.color-01 {
+  color: var(--color-01);
+}
+
+.color-02 {
+  color: var(--color-02);
+}
+
+.engineer:hover {
+  color: #FFB693;
+}
+
+.color-03 {
+  color: var(--color-03);
+}
+
+.manager:hover {
+  color: #FFB7FF;
+}
+
+.color-04 {
+  color: var(--color-04);
+}
+
+.color-05 {
+  color: var(--color-05);
+}
+
+.intern:hover {
+  color: #E6F6D1;
+}
+
+.github {
+  color: var(--color-01);
+}
+
+.github:hover {
+  color: var(--color-02);
+}
+
+.bg-color-01 {
+  background-color: var(--color-01);
+}
+
+.bg-color-02 {
+  background-color: var(--color-02);
+}
+
+.bg-color-03 {
+  background-color: var(--color-03);
+}
+
+.bg-color-04 {
+  background-color: var(--color-04);
+}
+
+.bg-color-05 {
+  background-color: var(--color-05);
+}
