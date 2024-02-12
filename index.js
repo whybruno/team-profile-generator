@@ -19,3 +19,15 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 // Imports a render function named "render" from a module named "page-template.js"
 const render = require("./src/page-template.js");
+
+// Defines a function named "validateEmail" to check if an email address is valid
+const validateEmail = (email) => {
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return emailRegex.test(email);
+};
+
+//  Defines a function named "validateNumber" to check if a string contains only digits
+const validateNumber = (number) => {
+  const numberRegex = /^\d+$/;
+  return numberRegex.test(number);
+};
